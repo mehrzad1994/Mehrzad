@@ -36,18 +36,12 @@ I specialize in **analyzing data, building dashboards, and translating insights 
 
 ## 🛠️ Skills & Tools
 
-**Data Analysis & BI**: SQL, Excel (Advanced), Power BI, Tableau
-
-**Programming & Data Science**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, tensorflow, keras, pytorch, SciPy), R, MATLAB
-
-**Databases**: MySQL, PostgreSQL, MS SQL Server, NAV (Dynamics NAV), CRM Systems
-
-**Big Data & Cloud**: Spark, AWS, GCP, Docker, Kubernetes
-
-**Business & Analytics**: ETL, Data Warehousing, Reporting, Forecasting, Business Process Analysis
-
+* **Data Analysis & BI**: SQL, Excel (Advanced), Power BI, Tableau
+* **Programming & Data Science**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, tensorflow, keras, pytorch, SciPy), R, MATLAB
+* **Databases**: MySQL, PostgreSQL, MS SQL Server, NAV (Dynamics NAV), CRM Systems
+* **Big Data & Cloud**: Spark, AWS, GCP, Docker, Kubernetes
+* **Business & Analytics**: ETL, Data Warehousing, Reporting, Forecasting, Business Process Analysis
 **Soft Skills**: Stakeholder Collaboration, Communication, Problem-Solving, Process Optimization
-
 
 ---
 
